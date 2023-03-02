@@ -1,0 +1,6 @@
+.field-wrapper {
+    display: flex;
+    flex-flow: row nowrap;
+    margin: .5rem 0;
+    gap: .5rem;
+}
